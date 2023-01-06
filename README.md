@@ -71,6 +71,9 @@
 curl https://<云托管服务域名>/api/count
 ```
 
+## 描述
+微信天气自动推送
+
 ### `POST /api/count`
 
 更新计数，自增或者清零
